@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zach/workspace/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/0452f34fc9064e13bcec09cfd5498402/artifacts
+end_time: 1713893317114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0452f34fc9064e13bcec09cfd5498402
+run_name: rogue-whale-706
+run_uuid: 0452f34fc9064e13bcec09cfd5498402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713893315723
+status: 4
+tags: []
+user_id: zach

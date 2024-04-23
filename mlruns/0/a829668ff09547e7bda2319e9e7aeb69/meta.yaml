@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zach/workspace/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/a829668ff09547e7bda2319e9e7aeb69/artifacts
+end_time: 1713893266688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a829668ff09547e7bda2319e9e7aeb69
+run_name: painted-goat-782
+run_uuid: a829668ff09547e7bda2319e9e7aeb69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713893265365
+status: 4
+tags: []
+user_id: zach

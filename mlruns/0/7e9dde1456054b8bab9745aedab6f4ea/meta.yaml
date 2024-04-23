@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zach/workspace/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/7e9dde1456054b8bab9745aedab6f4ea/artifacts
+end_time: 1713895340089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e9dde1456054b8bab9745aedab6f4ea
+run_name: fortunate-goat-230
+run_uuid: 7e9dde1456054b8bab9745aedab6f4ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713895253137
+status: 4
+tags: []
+user_id: zach

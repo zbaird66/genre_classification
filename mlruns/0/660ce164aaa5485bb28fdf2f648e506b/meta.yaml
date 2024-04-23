@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zach/workspace/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/660ce164aaa5485bb28fdf2f648e506b/artifacts
+end_time: 1713895722387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 660ce164aaa5485bb28fdf2f648e506b
+run_name: calm-crow-359
+run_uuid: 660ce164aaa5485bb28fdf2f648e506b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713895497379
+status: 3
+tags: []
+user_id: zach

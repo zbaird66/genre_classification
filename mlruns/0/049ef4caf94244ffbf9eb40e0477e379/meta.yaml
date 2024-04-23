@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zach/workspace/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/049ef4caf94244ffbf9eb40e0477e379/artifacts
+end_time: 1713893251296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 049ef4caf94244ffbf9eb40e0477e379
+run_name: resilient-cub-375
+run_uuid: 049ef4caf94244ffbf9eb40e0477e379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713893249960
+status: 4
+tags: []
+user_id: zach

@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-04-23T18:01:32.993021",
+    "startedAt": "2024-04-23T18:01:32.283492",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/zbaird66/genre_classification",
+        "commit": "0c30c3dcc7d1b8461525f9e719b882aebae9653f"
+    },
+    "email": "zbaird66@gmail.com",
+    "root": "/home/zach/workspace/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification",
+    "host": "DESKTOP-2DFU7BD",
+    "username": "zach",
+    "executable": "/home/zach/miniconda3/envs/mlflow-35193ac92fcaa981db739c25f92ae3895bf4debb/bin/python"
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/zach/workspace/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/genre_classification/mlruns/0/15ea6bd0bd694cf9a03aefdae2f2e37a/artifacts
+end_time: 1713895722273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 15ea6bd0bd694cf9a03aefdae2f2e37a
+run_uuid: 15ea6bd0bd694cf9a03aefdae2f2e37a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713895639230
+status: 3
+tags: []
+user_id: zach
